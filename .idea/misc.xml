@@ -6,6 +6,8 @@
       <list>
         <option value="$PROJECT_DIR$/eureka-service-registry-server/pom.xml" />
         <option value="$PROJECT_DIR$/microservice-1/pom.xml" />
+        <option value="$PROJECT_DIR$/global-config/pom.xml" />
+        <option value="$PROJECT_DIR$/mircoservice-2/pom.xml" />
       </list>
     </option>
   </component>
